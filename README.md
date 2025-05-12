@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Roman!
+I'm 23 y.o., begginer Python-developer🐍
+Currently working in Konyaev College
+
+I've finished studying in Konyaev College in 2022 on speciality 'IT and programming'
+- [x] Finish school
+- [x] Finish college
+- [] Finish Institute
+
+
+ 
+
