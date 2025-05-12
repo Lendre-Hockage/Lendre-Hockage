@@ -21,7 +21,7 @@ Currently working in Konyaev College
 I've finished studying in Konyaev College in 2022 on speciality 'IT and programming'
 - [x] Finish school
 - [x] Finish college
-- [] Finish Institute
+- [ ] Finish Institute
 
 
  
